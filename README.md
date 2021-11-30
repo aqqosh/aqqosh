@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=aqqosh)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **aqqosh/aqqosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
